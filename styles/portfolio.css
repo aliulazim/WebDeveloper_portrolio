@@ -135,4 +135,13 @@ main {
     font-weight: 700;
     color: #474747;
     margin-top: 5px;
+} 
+#what-i-do-description {
+    padding: 30px 150px;
+}
+
+/* Skills section style */
+
+.skills-comtainer {
+    display: flex;
 }
