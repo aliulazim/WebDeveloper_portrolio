@@ -117,3 +117,22 @@ main {
     background: #FFF8F3;
     margin: 130px 0;
 }
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+.about-info {
+    text-align: center;
+}
+.info-title {
+    color: #757575;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.info-description{
+    /* font-size: 20px; */
+    font-weight: 700;
+    color: #474747;
+    margin-top: 5px;
+}
